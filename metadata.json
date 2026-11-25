@@ -1,0 +1,6 @@
+{
+  "name": "Orynthiq — AI Operations for Ecommerce",
+  "description": "Connect orders, customer support and store operations with Orynthiq. AI operators help your team automate routine workflows and stay in control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
